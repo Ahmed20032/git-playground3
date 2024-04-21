@@ -1,4 +1,8 @@
 file 1
 line 2
 line 3
+<<<<<<< HEAD
 line 4
+=======
+done github
+>>>>>>> c5571662c846719766ca898e60265ebcb3383635
